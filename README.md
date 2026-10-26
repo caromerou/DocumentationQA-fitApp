@@ -1,11 +1,26 @@
-# 🚀 Automatización con Auto-Grabación de Video - FIT APP
+# 📌 Documentation & QA — FIT APP (Bienestar Universitario)
 
-Suite de pruebas automatizadas E2E orientada a validar flujos en la aplicación local (`http://localhost:4200/auth/login`) con grabación automática de video por cada caso ejecutado.
+Repositorio dedicado a la documentación del proyecto, gestión de requerimientos (Historias de Usuario), diseño de planes de pruebas, manuales de usuario y bases para la automatización de la plataforma **FIT APP** de la Universidad de Santander (UDES) Cúcuta.
 
-## ⚙️ Instalación
+---
 
-1. Asegúrate de tener instalado **Node.js**.
-2. Instala las dependencias del proyecto ejecutando en tu terminal:
-   ```bash
-   npm install
-   npx playwright install
+## 📂 Contenido del Repositorio
+
+* **`Plan_de_Pruebas_FIT_APP_Completo_v2.xlsx`**: Matriz de pruebas completa y extendida (52 casos de prueba) que abarca la Landing Page, Autenticación, Registro (HU-01), Activación (HU-02), Perfil de Bienestar, Evaluación PAR-Q, Dashboard, Rutinas con cronómetro, Progreso y Educación.
+* **Historias de Usuario (`HU-01`, `HU-02`)**: Documentación detallada de requerimientos funcionales, criterios de aceptación y especificaciones técnicas de los módulos de registro y activación de cuentas.
+* **`MANUAL3.docx`**: Manual de usuario oficial de la plataforma con guías de navegación e interfaces gráficas.
+* **`Anteproyecto_Protocolo...`**: Documento de anteproyecto de grado para la promoción de actividad física dirigida a estudiantes universitarios.
+* **Carpeta `src/` (Estructura de Automatización - No Funcional)**: Contiene una estructura base inicial y configuraciones preparadas para una posible automatización de pruebas (Playwright/Java), **sin embargo, esta automatización se encuentra en fase conceptual/preparatoria, no es funcional actualmente y no ha sido ejecutada de manera oficial en esta etapa del proyecto**.
+
+---
+
+## 🔗 Ecosistema del Proyecto (Repositorios Complementarios)
+
+Este repositorio de documentación y calidad (QA) se complementa y trabaja en conjunto con los siguientes repositorios oficiales del sistema FIT APP:
+
+* 🗄️ **Base de Datos**: [https://github.com/CristianMisse96/spafeu-bd](https://github.com/CristianMisse96/spafeu-bd)
+* ⚙️ **Backend (Spring Boot)**: [https://github.com/CristianMisse96/spafeu-backend.git](https://github.com/CristianMisse96/spafeu-backend.git)
+* 💻 **Frontend (Angular)**: [https://github.com/CristianMisse96/spafeu-frontend.git](https://github.com/CristianMisse96/spafeu-frontend.git)
+
+---
+*Universidad de Santander (UDES) Campus Cúcuta — Ingeniería de Sistemas (2026)*
