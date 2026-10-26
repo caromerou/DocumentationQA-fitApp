@@ -8,7 +8,7 @@ Repositorio dedicado a la documentación del proyecto, gestión de requerimiento
 
 * **`Plan_de_Pruebas_FIT_APP_Completo_v2.xlsx`**: Matriz de pruebas completa y extendida (52 casos de prueba) que abarca la Landing Page, Autenticación, Registro (HU-01), Activación (HU-02), Perfil de Bienestar, Evaluación PAR-Q, Dashboard, Rutinas con cronómetro, Progreso y Educación.
 * **Historias de Usuario (`HU-01`, `HU-02`)**: Documentación detallada de requerimientos funcionales, criterios de aceptación y especificaciones técnicas de los módulos de registro y activación de cuentas.
-* **`MANUAL3.docx`**: Manual de usuario oficial de la plataforma con guías de navegación e interfaces gráficas.
+* **`Manual_de_Uusuario.docx`**: Manual de usuario oficial de la plataforma con guías de navegación e interfaces gráficas.
 * **`Anteproyecto_Protocolo...`**: Documento de anteproyecto de grado para la promoción de actividad física dirigida a estudiantes universitarios.
 * **Carpeta `src/` (Estructura de Automatización - No Funcional)**: Contiene una estructura base inicial y configuraciones preparadas para una posible automatización de pruebas (Playwright/Java), **sin embargo, esta automatización se encuentra en fase conceptual/preparatoria, no es funcional actualmente y no ha sido ejecutada de manera oficial en esta etapa del proyecto**.
 
