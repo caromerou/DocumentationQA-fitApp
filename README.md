@@ -22,5 +22,4 @@ Este repositorio de documentación y calidad (QA) se complementa y trabaja en co
 * ⚙️ **Backend (Spring Boot)**: [https://github.com/CristianMisse96/spafeu-backend.git](https://github.com/CristianMisse96/spafeu-backend.git)
 * 💻 **Frontend (Angular)**: [https://github.com/CristianMisse96/spafeu-frontend.git](https://github.com/CristianMisse96/spafeu-frontend.git)
 
----
-*Universidad de Santander (UDES) Campus Cúcuta — Ingeniería de Sistemas (2026)*
+
