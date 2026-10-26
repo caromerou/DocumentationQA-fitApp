@@ -27,3 +27,8 @@ Este repositorio de documentación y calidad (QA) se complementa y trabaja en co
 
 ---
 *Universidad de Santander (UDES) Campus Cúcuta — Ingeniería de Sistemas (2026)*
+Proyecto: FIT APP - Promoción de Actividad Física 
+Autores: 
+Cristian Missé --- Desarrollador 
+Mauricio Portilla  --- Desarrollador 
+Carolina Romero --- QA 
