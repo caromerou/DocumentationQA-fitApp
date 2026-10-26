@@ -1,5 +1,21 @@
 # 📌 Documentation & QA — FIT APP (Bienestar Universitario)
 
+**Universidad de Santander (UDES) — Campus Cúcuta**  
+**Facultad de Ingenierías — Programa de Ingeniería de Sistemas (2026)**  
+
+**Proyecto:** FIT APP - Promoción de Actividad Física  
+
+**Colaboradores:**  
+* Cristian Missé — *Desarrollador*  
+* Mauricio Portilla — *Desarrollador*  
+* Carolina Romero — *QA*  
+
+---
+
+
+
+# 📌 Documentation & QA — FIT APP (Bienestar Universitario)
+
 Repositorio dedicado a la documentación del proyecto, gestión de requerimientos (Historias de Usuario), diseño de planes de pruebas, manuales de usuario y bases para la automatización de la plataforma **FIT APP** de la Universidad de Santander (UDES) Cúcuta.
 
 ---
@@ -26,9 +42,3 @@ Este repositorio de documentación y calidad (QA) se complementa y trabaja en co
 * 💻 **Frontend (Angular)**: [https://github.com/CristianMisse96/spafeu-frontend.git](https://github.com/CristianMisse96/spafeu-frontend.git)
 
 ---
-*Universidad de Santander (UDES) Campus Cúcuta — Ingeniería de Sistemas (2026)*
-Proyecto: FIT APP - Promoción de Actividad Física 
-Autores: 
-Cristian Missé --- Desarrollador 
-Mauricio Portilla  --- Desarrollador 
-Carolina Romero --- QA 
