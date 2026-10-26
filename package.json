@@ -1,0 +1,17 @@
+{
+  "name": "auto-grabaciones",
+  "version": "1.0.0",
+  "description": "Automatización E2E y grabación de video para FIT APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  }
+}
